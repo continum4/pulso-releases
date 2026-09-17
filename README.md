@@ -31,12 +31,14 @@ Necesitas **Android 8.0 o superior**.
 Si ya tienes Pulso instalado, la versión nueva se instala encima y **conserva tu
 historial**. No desinstales para actualizar: eso sí borra tus datos.
 
-## Enterarte de las versiones nuevas
+## Versiones nuevas
 
-Pulso no se actualiza sola, y no puede avisarte desde dentro porque no se
-conecta a nada. Con [Obtainium](https://github.com/ImranR98/Obtainium) puedes
-añadir este repositorio como fuente y recibir un aviso en cuanto se publique una
-versión, con la actualización a un toque.
+Pulso no se actualiza sola: no se conecta a nada, así que no puede avisarte
+desde dentro. Cuando salga una versión, la encontrarás aquí y en
+[pulso.continum4.com](https://pulso.continum4.com).
+
+Para actualizar, descarga el APK nuevo e instálalo encima del que tienes. Tu
+historial se conserva.
 
 ## Comprobar lo que descargas
 
